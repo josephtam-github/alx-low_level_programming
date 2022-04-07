@@ -7,7 +7,6 @@
  */
 int main(void)
 {
-	char text = 'hello World';
-	putchar(text);
+	printf("Hello World");
        	return (0);
 }
