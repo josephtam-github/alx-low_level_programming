@@ -7,5 +7,7 @@
  */
 int main(void)
 {
+	char text = 'hello World';
+	putchar(text);
        	return (0);
 }
