@@ -1,0 +1,1 @@
+The purpose of the repository is for me to learn C programming language, its fundamentals, betty coding style and best practices, compiling and interpreting. The directories in this repo are simple projects given to me by ALX SE to aid my leaning practically
