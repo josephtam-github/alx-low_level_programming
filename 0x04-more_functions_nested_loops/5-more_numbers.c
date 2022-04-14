@@ -1,5 +1,6 @@
 #include "main.h"
-/** more_numbers - prints 10 times the numbers, from 0 to 14, then a new line
+/**
+ * more_numbers - prints 10 times the numbers, from 0 to 14, then a new line
  *
  * Return: void
  */
@@ -8,6 +9,7 @@ void more_numbers(void)
 	char *nums;
 	int c;
 	int l;
+
 	nums = "01234567891011121314";
 	l = 0;
 
@@ -19,5 +21,5 @@ void more_numbers(void)
 		}
 		_putchar('\n');
 		l++;
-	}	
+	}
 }
