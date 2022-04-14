@@ -13,7 +13,7 @@ void more_numbers(void)
 	nums = "01234567891011121314";
 	l = 0;
 
-	while (l < 11)
+	while (l < 10)
 	{
 		for (c = 0; c < 20; c++)
 		{
