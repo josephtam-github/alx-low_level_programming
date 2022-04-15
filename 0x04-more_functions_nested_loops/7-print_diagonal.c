@@ -23,8 +23,9 @@ void print_diagonal(int n)
 			{
 				for (c3 = 0; c3 <= c2; ++c3)
 				{
-					_putchar(92);
+					_putchar(32);
 				}
+				_putchar(92);
 				_putchar('\n');
 				c2++;
 			}
